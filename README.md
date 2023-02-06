@@ -1,1 +1,1 @@
-# ALX-NEW-PROJECT
+This file is mandatory in projects
